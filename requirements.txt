@@ -68,7 +68,7 @@
 # nbformat==5.4.0
 # nest-asyncio==1.5.5
 # notebook==6.4.12
-numpy==1.23.2
+# numpy==1.23.2
 # oauthlib==3.2.0
 # opt-einsum==3.3.0
 # packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
